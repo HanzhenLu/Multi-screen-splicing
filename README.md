@@ -2,7 +2,7 @@
 浙江大学(ZJU)计算机图形学(Computer Graphics)作业,  
 ## 简介
 how to stick 2 * 2 virtual screen together to create a larger OpenGL viewport  
-只要了解`glFrustum`和`glViewport`这两个函数就能很快做出结果，不了解的话像我一样一个个参数慢慢调，花一个晚上也能装运气试出来  
+只要了解`glFrustum`和`glViewport`这两个函数就能很快做出结果，不了解的话像我一样一个个参数慢慢调，花一个晚上也能撞运气试出来  
 ## 最终效果
 正交投影  
 ![image-20221117215906853](https://user-images.githubusercontent.com/110232285/204294331-53674e0e-0892-4e06-9a32-74861b9513b2.png)  
